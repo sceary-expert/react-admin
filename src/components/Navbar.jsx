@@ -6,7 +6,7 @@ function Navbar() {
     <NavbarContainer>
       <Text>
         Good morning,
-        <span> Kishan</span>
+        <span> Dhananjoy</span>
       </Text>
       <InputContainer>
         <Icon>
